@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;skin:printfriendly ${1:${2:linktext="$3"}}/&gt;$0</string>
+      <key>name</key>
+      <string>skin:printfriendly</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>skin</string>
+      <key>uuid</key>
+      <string>d4b3f735-5835-4ed6-8ecd-b3a9ea570b6b</string>
+   </dict>
+</plist>

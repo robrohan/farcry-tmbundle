@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:field ${1:${2:rendertype="$3" }${4:label="$5" }${6:labeltype="$7" }${8:helpsection="$9" }${10:class="$11" }${12:fieldname="$13"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:field</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>c7dc7cfd-f7e0-40a0-8d14-5e9f4250addd</string>
+   </dict>
+</plist>

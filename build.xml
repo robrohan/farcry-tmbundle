@@ -1,0 +1,29 @@
+<project>
+	
+	<!-- The xslt process needs an XSLT 2.0 processor, so I am using Saxon-->
+	<property name="saxon.path" value="/Applications/saxonb9-0-0-4j/saxon9.jar" />
+	
+	
+	<target name="clean">
+		<fileset dir="bundle/Snippets" includes="*.tmSnippet"/>
+	</target>
+	
+	<target name="compile">
+		<mkdir dir="build/classes"/>
+		<javac srcdir="src" destdir="build/classes"/>
+	</target>
+	
+	<target name="jar">
+		<mkdir dir="build/jar"/>
+		<jar destfile="build/jar/HelloWorld.jar" basedir="build/classes">
+			<manifest>
+				<attribute name="Main-Class" value="oata.HelloWorld"/>
+			</manifest>
+		</jar>
+	</target>
+	
+	<target name="run">
+		<java jar="build/jar/HelloWorld.jar" fork="true"/>
+	</target>
+
+</project>

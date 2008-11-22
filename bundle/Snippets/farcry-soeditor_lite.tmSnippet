@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;farcry:soeditor_lite ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>farcry:soeditor_lite</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>farcry</string>
+      <key>uuid</key>
+      <string>b0f1abbc-a012-40a9-92a4-25a68c430756</string>
+   </dict>
+</plist>

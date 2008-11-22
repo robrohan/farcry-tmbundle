@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;sec:checkrole ${1:${2:lRoles="$3" }${4:result="$5" }${6:error="$7" }${8:errormessage="$9" }${10:result="$11"}}/&gt;$0</string>
+      <key>name</key>
+      <string>sec:checkrole</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>sec</string>
+      <key>uuid</key>
+      <string>f3b36282-d662-4b50-b890-d7664bc10693</string>
+   </dict>
+</plist>

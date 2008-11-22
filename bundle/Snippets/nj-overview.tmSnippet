@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;nj:overview ${1:${2:zoom="$3" }${4:nodetype="$5" }${6:lCreateObjects="$7" }${8:stOverview="$9"}}/&gt;$0</string>
+      <key>name</key>
+      <string>nj:overview</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>nj</string>
+      <key>uuid</key>
+      <string>0ebbdaee-f4ba-48bc-9d14-59910e9dbd09</string>
+   </dict>
+</plist>

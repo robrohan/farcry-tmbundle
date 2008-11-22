@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>refreshApplicationScope(${1:})</string>
+      <key>name</key>
+      <string>refreshApplicationScope</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>refreshApplicationScope</string>
+      <key>uuid</key>
+      <string>a6e6e8b2-0e1a-42c4-8c04-b05a035b5614</string>
+   </dict>
+</plist>

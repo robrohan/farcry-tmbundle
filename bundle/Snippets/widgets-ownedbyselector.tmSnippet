@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:ownedbyselector ${1:${2:fieldName="$3" }${4:fieldlabel="$5" }${6:selectedValue="$7"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:ownedbyselector</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>1dfc2c1a-7c8b-439c-a386-eea309ce4d48</string>
+   </dict>
+</plist>

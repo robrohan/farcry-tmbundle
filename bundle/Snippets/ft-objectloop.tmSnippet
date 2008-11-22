@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:objectloop ${1:${2:stobj="$3" }${4:objectid="$5" }${6:typename="$7" }${8:stPropMetadata="$9" }${10:stPropValues="$11" }${12:class="$13" }${14:prefix="$15" }${16:lfields="$17" }${18:lExcludeFields="$19" }${20:index="$21" }${22:lprocess="$23" }${24:bValidation="$25" }${26:bLabel="$27" }${28:bEdit="$29" }${30:bDisplay="$31" }${32:bProperty="$33" }${34:bValue="$35" }${36:bMetadata="$37" }${38:bHint="$39" }${40:bPrefix="$41" }${42:objectid="$43" }${44:typename="$45" }${46:objectid="$47"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:objectloop</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>14adc4ef-215e-42c8-89b9-5a8752cb3895</string>
+   </dict>
+</plist>

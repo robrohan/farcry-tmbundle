@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;nj:treegetrelations ${1:${2:objectId="$3" }${4:lobjectIds="$5" }${6:get="$7" }${8:typename="$9" }${10:bInclusive="$11" }${12:bIncludeObjects="$13" }${14:lStatus="$15" }${16:lTypeIds="$17" }${18:nodetype="$19" }${20:r_stObjects="$21" }${22:r_stObject="$23" }${24:r_lObjectIds="$25" }${26:r_ObjectId="$27"}}/&gt;$0</string>
+      <key>name</key>
+      <string>nj:treegetrelations</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>nj</string>
+      <key>uuid</key>
+      <string>5284128f-4306-4cae-9a57-bbf11e6f2b7c</string>
+   </dict>
+</plist>

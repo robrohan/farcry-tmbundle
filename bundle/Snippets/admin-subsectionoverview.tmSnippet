@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;admin:subsectionoverview ${1:${2:sectionid="$3" }${4:subsectionid="$5" }${6:webTop="$7"}}/&gt;$0</string>
+      <key>name</key>
+      <string>admin:subsectionoverview</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>admin</string>
+      <key>uuid</key>
+      <string>6798c1ed-b4ad-4c70-81ca-fac86a8ee782</string>
+   </dict>
+</plist>

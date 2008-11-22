@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;nj:wddxtojavascript ${1:${2:toplevelvariable="$3" }${4:input="$5" }${6:output="$7" }${8:bDefineRootObject="$9"}}/&gt;$0</string>
+      <key>name</key>
+      <string>nj:wddxtojavascript</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>nj</string>
+      <key>uuid</key>
+      <string>ff8d76f2-d2d6-4ec0-a274-c3149ef0cbf6</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;admin:popupfooter ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>admin:popupfooter</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>admin</string>
+      <key>uuid</key>
+      <string>b8db4880-c7a7-4ece-b8fb-b6ad05d00b44</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;skin:multipagenav ${1:${2:objectId="$3" }${4:display="$5" }${6:displayPageNumbers="$7" }${8:displayNextPrevious="$9" }${10:displayNextPreviousTitle="$11" }${12:class="$13" }${14:r_qlinks="$15" }${16:seperator="$17" }${18:previousArrow="$19" }${20:nextArrow="$21"}}/&gt;$0</string>
+      <key>name</key>
+      <string>skin:multipagenav</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>skin</string>
+      <key>uuid</key>
+      <string>9f344c28-7d72-4bbf-9154-f75eb8f09c8d</string>
+   </dict>
+</plist>

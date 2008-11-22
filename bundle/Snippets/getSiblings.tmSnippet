@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getSiblings(${1:${2:dsn="$3", }${4:objectid="$5", }${6:lColumns="$7", }${8:aFilter="$9", }${10:bIncludeSelf="$11"}})</string>
+      <key>name</key>
+      <string>getSiblings</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getSiblings</string>
+      <key>uuid</key>
+      <string>3e63911d-1c9e-447b-8a38-acdb937aca8d</string>
+   </dict>
+</plist>

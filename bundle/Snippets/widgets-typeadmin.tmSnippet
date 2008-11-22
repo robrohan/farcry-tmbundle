@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:typeadmin ${1:${2:typename="$3" }${4:title="$5" }${6:description="$7" }${8:datasource="$9" }${10:aColumns="$11" }${12:aButtons="$13" }${14:bdebug="$15" }${16:bFilterCategories="$17" }${18:bFilterDateRange="$19" }${20:bFilterProperties="$21" }${22:permissionset="$23" }${24:defaultorderby="$25" }${26:defaultorder="$27" }${28:id="$29" }${30:numitems="$31" }${32:numPageDisplay="$33"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:typeadmin</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>f63f53ab-8fba-4bf5-8da6-d19b06abfde2</string>
+   </dict>
+</plist>

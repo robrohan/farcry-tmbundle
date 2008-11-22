@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>fixBranch(${1:${2:parentid="$3", }${4:nLeft="$5", }${6:nLevel="$7", }${8:dsn="$9", }${10:dbowner="$11"}})</string>
+      <key>name</key>
+      <string>fixBranch</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>fixBranch</string>
+      <key>uuid</key>
+      <string>ae0b8604-091e-4a18-b2e9-2a755393fa30</string>
+   </dict>
+</plist>

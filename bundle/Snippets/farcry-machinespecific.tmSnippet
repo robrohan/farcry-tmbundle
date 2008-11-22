@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;farcry:machinespecific ${1:${2:name="$3"}}/&gt;$0</string>
+      <key>name</key>
+      <string>farcry:machinespecific</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>farcry</string>
+      <key>uuid</key>
+      <string>58863c12-65bf-4f98-a76b-f1ffdd08f767</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>addCategory(${1:${2:categoryID="$3", }${4:categoryLabel="$5", }${6:parentID="$7", }${8:dsn="$9"}})</string>
+      <key>name</key>
+      <string>addCategory</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>addCategory</string>
+      <key>uuid</key>
+      <string>df0c80f1-62d9-423d-9267-d6bdcd6310a8</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getFU(${1:${2:objectid="$3"}})</string>
+      <key>name</key>
+      <string>getFU</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getFU</string>
+      <key>uuid</key>
+      <string>b2582ed3-f6f9-4b31-8ead-bb85d05566c5</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getCategories(${1:${2:objectID="$3", }${4:bReturnCategoryIDs="$5", }${6:alias="$7"}})</string>
+      <key>name</key>
+      <string>getCategories</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getCategories</string>
+      <key>uuid</key>
+      <string>ec40e723-3678-4041-b1fd-1b4866246fde</string>
+   </dict>
+</plist>

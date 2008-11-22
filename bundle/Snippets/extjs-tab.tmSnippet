@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;extjs:tab ${1:${2:id="$3" }${4:title="$5" }${6:style="$7" }${8:class="$9" }${10:icon="$11" }${12:aPanels="$13" }${14:stConfig="$15" }${16:stConfig.width="$17" }${18:stConfig.height="$19" }${20:stConfig.autoWidth="$21" }${22:stConfig.autoHeight="$23" }${24:stConfig.activeTab="$25" }${26:stConfig.frame="$27" }${28:stConfig.autoScroll="$29" }${30:stConfig.deferredRender="$31"}}/&gt;$0</string>
+      <key>name</key>
+      <string>extjs:tab</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>extjs</string>
+      <key>uuid</key>
+      <string>45cb6d48-bd93-419f-8c38-728b7193a117</string>
+   </dict>
+</plist>

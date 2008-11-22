@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;nj:displayprinterfriendly ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>nj:displayprinterfriendly</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>nj</string>
+      <key>uuid</key>
+      <string>f6b0c47e-ba02-42ad-a043-9ebd6698d92a</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;wiz:wizard ${1:${2:ReferenceID="$3" }${4:ReturnLocation="$5" }${6:Timeout="$7" }${8:r_stwizard="$9" }${10:title="$11" }${12:FormName="$13" }${14:FormTarget="$15" }${16:FormAction="$17" }${18:FormMethod="$19" }${20:Formonsubmit="$21" }${22:Formcss="$23" }${24:FormClass="$25" }${26:FormStyle="$27" }${28:FormHeading="$29" }${30:FormValidation="$31"}}/&gt;$0</string>
+      <key>name</key>
+      <string>wiz:wizard</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>wiz</string>
+      <key>uuid</key>
+      <string>a78594c7-059f-424d-9060-0b179688f078</string>
+   </dict>
+</plist>

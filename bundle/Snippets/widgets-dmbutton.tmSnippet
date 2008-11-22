@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:dmbutton ${1:${2:Type="$3" }${4:disabled="$5"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:dmbutton</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>d638cf6c-271f-48a6-aa2a-a4f06126d5b3</string>
+   </dict>
+</plist>

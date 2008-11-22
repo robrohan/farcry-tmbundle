@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getComponents(${1:${2:package="$3", }${4:locations="$5"}})</string>
+      <key>name</key>
+      <string>getComponents</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getComponents</string>
+      <key>uuid</key>
+      <string>b4a83c8d-3cbc-43c1-9165-abd5940c3368</string>
+   </dict>
+</plist>

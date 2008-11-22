@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getCategoryBranchAsList(${1:${2:lCategoryIDs="$3"}})</string>
+      <key>name</key>
+      <string>getCategoryBranchAsList</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getCategoryBranchAsList</string>
+      <key>uuid</key>
+      <string>e0cafb75-2035-49a6-8e94-b5a5d1060c2c</string>
+   </dict>
+</plist>

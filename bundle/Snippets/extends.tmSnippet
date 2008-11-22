@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>extends(${1:${2:desc="$3", }${4:anc="$5"}})</string>
+      <key>name</key>
+      <string>extends</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>extends</string>
+      <key>uuid</key>
+      <string>db21b7ea-cf55-4909-aa0b-7be162b144a6</string>
+   </dict>
+</plist>

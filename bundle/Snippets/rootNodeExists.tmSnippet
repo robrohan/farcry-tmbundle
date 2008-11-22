@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>rootNodeExists(${1:${2:typename="$3", }${4:dsn="$5", }${6:dbowner="$7"}})</string>
+      <key>name</key>
+      <string>rootNodeExists</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>rootNodeExists</string>
+      <key>uuid</key>
+      <string>e33a9235-edf1-4c49-95e4-baaf6d31b0ff</string>
+   </dict>
+</plist>

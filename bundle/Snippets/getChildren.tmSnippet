@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getChildren(${1:${2:dsn="$3", }${4:objectid="$5", }${6:dbowner="$7"}})</string>
+      <key>name</key>
+      <string>getChildren</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getChildren</string>
+      <key>uuid</key>
+      <string>ee21f80c-f32b-41b3-a279-fd4f3920661a</string>
+   </dict>
+</plist>

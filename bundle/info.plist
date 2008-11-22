@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>rob@daemon.com.au</string>
+	
+	<key>contactName</key>
+	<string>Rob Rohan</string>
+	
+	<key>description</key>
+	<string>Support for the &lt;a href="http://farcrycore.org/"&gt;FarCry&lt;/a&gt; framework.</string>
+	
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>D20A7E11-2B5D-40CC-838D-903B417019BC</string>
+			<string>5058590C-8A96-43E8-9D92-42E3FD88B1CB</string>
+		</array>
+		
+		<key>submenus</key>
+		<dict>
+			<key>5058590C-8A96-43E8-9D92-42E3FD88B1CB</key>
+			<dict>
+				<key>name</key>
+				<string>FarCry Functions</string>
+				
+				<key>items</key>
+				<array>
+				</array>
+			</dict>
+			
+			<key>D20A7E11-2B5D-40CC-838D-903B417019BC</key>
+			<dict>
+				<key>name</key>
+				<string>FarCry Tags</string>
+				
+				<key>items</key>
+				<array>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+	
+	<key>name</key>
+	<string>FarCry</string>
+	
+	<key>ordering</key>
+	<array>
+	</array>
+	
+	<key>uuid</key>
+	<string>1A0F0E4B-4CF5-444F-8E64-B227D0FF9D4F</string>
+</dict>
+</plist>

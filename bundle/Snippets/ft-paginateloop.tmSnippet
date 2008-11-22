@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:paginateloop ${1:${2:r_stObject="$3" }${4:editWebskin="$5" }${6:CustomList="$7" }${8:startRow="$9" }${10:lArrayProps="$11" }${12:bIncludeFields="$13" }${14:bIncludeObjects="$15" }${16:BINCLUDEALLCOLUMNS="$17" }${18:bTypeAdmin="$19" }${20:stpermissions="$21" }${22:lCustomActions="$23" }${24:typename="$25"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:paginateloop</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>a3d8d55e-1270-4285-8fbb-8c44f8e427ad</string>
+   </dict>
+</plist>

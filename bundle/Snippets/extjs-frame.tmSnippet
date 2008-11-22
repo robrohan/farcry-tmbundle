@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;extjs:frame ${1:${2:id="$3" }${4:title="$5" }${6:class="$7" }${8:style="$9"}}/&gt;$0</string>
+      <key>name</key>
+      <string>extjs:frame</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>extjs</string>
+      <key>uuid</key>
+      <string>608bb96f-ff1e-4fd6-a532-69a3362f9c05</string>
+   </dict>
+</plist>

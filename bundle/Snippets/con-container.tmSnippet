@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;con:container ${1:${2:label="$3" }${4:objectID="$5" }${6:preHTML="$7" }${8:postHTML="$9" }${10:bShowIfEmpty="$11" }${12:defaultMirrorID="$13" }${14:defaultMirrorLabel="$15"}}/&gt;$0</string>
+      <key>name</key>
+      <string>con:container</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>con</string>
+      <key>uuid</key>
+      <string>cc38bd25-d7f2-4377-880c-dc0912dbd746</string>
+   </dict>
+</plist>

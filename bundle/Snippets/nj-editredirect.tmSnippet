@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;nj:editredirect ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>nj:editredirect</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>nj</string>
+      <key>uuid</key>
+      <string>a3bec95e-5a9a-4369-a570-fd856774e6b0</string>
+   </dict>
+</plist>

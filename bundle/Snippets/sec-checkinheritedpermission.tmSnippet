@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;sec:checkinheritedpermission ${1:${2:PermissionName="$3" }${4:UserName="$5"}}/&gt;$0</string>
+      <key>name</key>
+      <string>sec:checkinheritedpermission</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>sec</string>
+      <key>uuid</key>
+      <string>aa36826d-a342-4fe0-a5b7-9e5ae7edd639</string>
+   </dict>
+</plist>

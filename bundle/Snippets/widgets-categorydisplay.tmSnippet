@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:categorydisplay ${1:${2:lSelectedCategoryID="$3" }${4:naviagtionURL="$5" }${6:naviagtionVariableName="$7" }${8:categoryFormFieldName="$9" }${10:moduleCounter="$11"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:categorydisplay</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>584603b3-cf5b-46cb-baff-a8bdf7b013ee</string>
+   </dict>
+</plist>

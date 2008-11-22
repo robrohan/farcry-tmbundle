@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>setOldest(${1:${2:dsn="$3", }${4:parentid="$5", }${6:objectid="$7", }${8:objectname="$9", }${10:typename="$11", }${12:dbowner="$13"}})</string>
+      <key>name</key>
+      <string>setOldest</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>setOldest</string>
+      <key>uuid</key>
+      <string>c03df924-4c26-4c40-9bc2-020ebcd9562b</string>
+   </dict>
+</plist>

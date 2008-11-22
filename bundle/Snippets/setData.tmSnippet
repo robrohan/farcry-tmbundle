@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>setData(${1:})</string>
+      <key>name</key>
+      <string>setData</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>setData</string>
+      <key>uuid</key>
+      <string>c24df675-e8d5-49cc-b548-5ccd851445e1</string>
+   </dict>
+</plist>

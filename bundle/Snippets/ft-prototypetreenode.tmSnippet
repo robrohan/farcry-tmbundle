@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:prototypetreenode ${1:${2:id="$3" }${4:text="$5" }${6:lSelectedItems="$7" }${8:bSelectMultiple="$9" }${10:openIcon="$11" }${12:closedIcon="$13" }${14:state="$15" }${16:bAllowSelection="$17"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:prototypetreenode</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>06d48f91-eda7-48b1-923d-3f6f5295d68f</string>
+   </dict>
+</plist>

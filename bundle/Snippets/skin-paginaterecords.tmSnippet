@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;skin:paginaterecords ${1:${2:r_stRecord="$3"}}/&gt;$0</string>
+      <key>name</key>
+      <string>skin:paginaterecords</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>skin</string>
+      <key>uuid</key>
+      <string>02a7668a-2cce-42d1-803d-17d7a674a288</string>
+   </dict>
+</plist>

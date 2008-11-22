@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:bodyinsertitem ${1:${2:typename="$3"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:bodyinsertitem</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>9745280a-08e9-4106-868e-2410e3286842</string>
+   </dict>
+</plist>

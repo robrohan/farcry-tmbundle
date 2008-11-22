@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;skin:breadcrumb ${1:${2:separator="$3" }${4:here="$5" }${6:linkClass="$7" }${8:objectid="$9" }${10:startLevel="$11" }${12:prefix="$13" }${14:suffix="$15" }${16:includeSelf="$17" }${18:linkSelf="$19" }${20:homeNavID="$21"}}/&gt;$0</string>
+      <key>name</key>
+      <string>skin:breadcrumb</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>skin</string>
+      <key>uuid</key>
+      <string>6a22d8f8-d093-46e6-ab61-031601c033f6</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:form ${1:${2:Name="$3" }${4:Target="$5" }${6:Action="$7" }${8:method="$9" }${10:onsubmit="$11" }${12:css="$13" }${14:Class="$15" }${16:Style="$17" }${18:Heading="$19" }${20:Validation="$21" }${22:bAjaxSubmission="$23" }${24:ajaxMaskMsg="$25" }${26:ajaxMaskCls="$27"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:form</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>2820b342-d77a-4f9d-9ebc-7b93036206c0</string>
+   </dict>
+</plist>

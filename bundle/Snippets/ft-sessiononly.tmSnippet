@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:sessiononly ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:sessiononly</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>28b7ed70-3e32-4695-ab88-d57eb4e794f1</string>
+   </dict>
+</plist>

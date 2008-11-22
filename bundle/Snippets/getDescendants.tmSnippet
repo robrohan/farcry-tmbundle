@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getDescendants(${1:${2:objectid="$3", }${4:depth="$5", }${6:lColumns="$7", }${8:aFilter="$9", }${10:dsn="$11", }${12:bIncludeSelf="$13", }${14:bHideEmptyNodes="$15", }${16:l404Check="$17", }${18:dbowner="$19"}})</string>
+      <key>name</key>
+      <string>getDescendants</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getDescendants</string>
+      <key>uuid</key>
+      <string>cf392205-bcd3-47a7-826e-550cd8024437</string>
+   </dict>
+</plist>

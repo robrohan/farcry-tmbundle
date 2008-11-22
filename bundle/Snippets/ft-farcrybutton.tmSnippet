@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:farcrybutton ${1:${2:id="$3" }${4:Type="$5" }${6:Value="$7" }${8:rbkey="$9" }${10:Onclick="$11" }${12:Class="$13" }${14:Style="$15" }${16:SelectedObjectID="$17" }${18:ConfirmText="$19" }${20:validate="$21" }${22:bInPanel="$23" }${24:src="$25" }${26:url="$27" }${28:target="$29" }${30:bSpamProtect="$31" }${32:stSpamProtectConfig="$33"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:farcrybutton</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>35c3f7d8-3f9d-4be7-920e-cf26ec5c1821</string>
+   </dict>
+</plist>

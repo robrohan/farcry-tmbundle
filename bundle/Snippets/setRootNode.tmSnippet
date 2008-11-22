@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>setRootNode(${1:${2:dsn="$3", }${4:objectid="$5", }${6:objectname="$7", }${8:typename="$9", }${10:dbowner="$11"}})</string>
+      <key>name</key>
+      <string>setRootNode</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>setRootNode</string>
+      <key>uuid</key>
+      <string>aee02fc6-321b-4976-b3d5-ce17c714550b</string>
+   </dict>
+</plist>

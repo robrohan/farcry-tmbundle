@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:button ${1:${2:value="$3" }${4:type="$5" }${6:text="$7" }${8:size="$9" }${10:color="$11" }${12:icon="$13" }${14:overIcon="$15" }${16:iconPos="$17" }${18:sprite="$19" }${20:id="$21" }${22:width="$23" }${24:validate="$25" }${26:SelectedObjectID="$27" }${28:onClick="$29" }${30:Class="$31" }${32:Style="$33" }${34:ConfirmText="$35" }${36:src="$37" }${38:url="$39" }${40:target="$41" }${42:bSpamProtect="$43" }${44:stSpamProtectConfig="$45" }${46:rbkey="$47" }${48:disabled="$49" }${50:r_stButton="$51"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:button</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>6af958fc-b1a9-4ad3-8b8b-f8e23abf6301</string>
+   </dict>
+</plist>

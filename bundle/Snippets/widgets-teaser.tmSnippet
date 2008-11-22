@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:teaser ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:teaser</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>2da0bd48-b75a-43b2-8d14-cb092f5da141</string>
+   </dict>
+</plist>

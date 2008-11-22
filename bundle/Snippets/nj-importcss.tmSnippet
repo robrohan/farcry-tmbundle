@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;nj:importcss ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>nj:importcss</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>nj</string>
+      <key>uuid</key>
+      <string>d22741df-bdfa-4277-a7ad-c401dddf41da</string>
+   </dict>
+</plist>

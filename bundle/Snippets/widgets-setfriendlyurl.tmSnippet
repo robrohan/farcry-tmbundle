@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:setfriendlyurl ${1:${2:objectid="$3" }${4:querystring="$5" }${6:customFriendlyURL="$7"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:setfriendlyurl</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>10d0c515-1439-4b17-87ae-2ca6d72bf40b</string>
+   </dict>
+</plist>

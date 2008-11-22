@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>getGroupUsers(${1:${2:groups="$3"}})</string>
+      <key>name</key>
+      <string>getGroupUsers</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>getGroupUsers</string>
+      <key>uuid</key>
+      <string>e61c4cb4-989f-4519-abe4-a61b3d035ec7</string>
+   </dict>
+</plist>

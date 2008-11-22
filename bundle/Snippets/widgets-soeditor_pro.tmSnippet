@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:soeditor_pro ${1:${2:Form="$3" }${4:Field="$5" }${6:ScriptPath="$7" }${8:Width="$9" }${10:Height="$11" }${12:Cols="$13" }${14:Rows="$15" }${16:PageEdit="$17" }${18:SingleSpaced="$19" }${20:WordCount="$21" }${22:BaseURL="$23" }${24:BaseFont="$25" }${26:BaseFontSize="$27" }${28:BaseFontColor="$29" }${30:BaseBGColor="$31" }${32:ValidateOnSave="$33" }${34:ValidationMessage="$35" }${36:Html="$37" }${38:ShowBorders="$39" }${40:InitialFocus="$41" }${42:BaseCSS="$43" }${44:CSSField="$45" }${46:ImagePath="$47" }${48:TemplatePath="$49" }${50:AllowAbsoluteImagePath="$51" }${52:AllowUpload="$53" }${54:AllowFolderCreation="$55" }${56:AllowFolderDelete="$57" }${58:AllowImageDelete="$59" }${60:OpenImageFolders="$61" }${62:InsertImageOnUpload="$63" }${64:AutoSweep="$65" }${66:New="$67" }${68:Save="$69" }${70:Cut="$71" }${72:Copy="$73" }${74:Paste="$75" }${76:Delete="$77" }${78:Find="$79" }${80:Undo="$81" }${82:Redo="$83" }${84:HR="$85" }${86:Image="$87" }${88:Link="$89" }${90:Anchor="$91" }${92:UnLink="$93" }${94:LinkList="$95" }${96:LinkListLabels="$97" }${98:SpecialCharacter="$99" }${100:SpellCheck="$101" }${102:Help="$103" }${104:Align="$105" }${106:List="$107" }${108:Unindent="$109" }${110:Indent="$111" }${112:FontDialog="$113" }${114:Format="$115" }${116:FormatList="$117" }${118:FormatListLabels="$119" }${120:Font="$121" }${122:FontList="$123" }${124:FontListLabels="$125" }${126:Size="$127" }${128:SizeList="$129" }${130:SizeListLabels="$131" }${132:Bold="$133" }${134:Italic="$135" }${136:Underline="$137" }${138:SuperScript="$139" }${140:SubScript="$141" }${142:FgColor="$143" }${144:BgColor="$145" }${146:CSSList="$147" }${148:CSSListLabels="$149" }${150:StyleList="$151" }${152:StyleListLabels="$153" }${154:Tables="$155" }${156:InsertCell="$157" }${158:DeleteCell="$159" }${160:InsertRow="$161" }${162:DeleteRow="$163" }${164:InsertColumn="$165" }${166:DeleteColumn="$167" }${168:SplitCell="$169" }${170:MergeCell="$171" }${172:CellProp="$173" }${174:GenericForm="$175" }${176:MailForm="$177" }${178:TextBox="$179" }${180:TextArea="$181" }${182:RadioBox="$183" }${184:CheckBox="$185" }${186:SelectBox="$187" }${188:HiddenBox="$189" }${190:FormButton="$191" }${192:ResetButton="$193" }${194:SubmitButton="$195" }${196:HTMLEdit="$197" }${198:CodeSweeper="$199" }${200:Borders="$201" }${202:Details="$203"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:soeditor_pro</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>e0d6c928-7f79-47ea-942c-f411c6269be8</string>
+   </dict>
+</plist>

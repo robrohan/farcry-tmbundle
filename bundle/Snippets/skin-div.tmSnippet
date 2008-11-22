@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;skin:div ${1:${2:id="$3" }${4:class="$5" }${6:style="$7"}}/&gt;$0</string>
+      <key>name</key>
+      <string>skin:div</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>skin</string>
+      <key>uuid</key>
+      <string>534ac1ee-0aaa-4bcd-a180-a27114de44b8</string>
+   </dict>
+</plist>

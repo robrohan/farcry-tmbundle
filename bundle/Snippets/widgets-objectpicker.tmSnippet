@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:objectpicker ${1:${2:typeName="$3" }${4:fieldName="$5" }${6:fieldlabel="$7" }${8:fieldValue="$9"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:objectpicker</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>f19bdfb0-a0af-40e5-a38a-d78f7dadabe2</string>
+   </dict>
+</plist>

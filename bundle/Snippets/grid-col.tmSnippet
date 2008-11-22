@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;grid:col ${1:${2:span="$3" }${4:pct="$5" }${6:bLast="$7" }${8:prepend="$9" }${10:append="$11" }${12:push="$13" }${14:pull="$15" }${16:bAllowOverflow="$17" }${18:id="$19" }${20:class="$21" }${22:style="$23" }${24:bLayoutOnly="$25"}}/&gt;$0</string>
+      <key>name</key>
+      <string>grid:col</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>grid</string>
+      <key>uuid</key>
+      <string>06b925ad-859f-447d-9601-6433984ff12c</string>
+   </dict>
+</plist>

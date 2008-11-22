@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;skin:view ${1:${2:stObject="$3" }${4:typename="$5" }${6:objectid="$7" }${8:key="$9" }${10:template="$11" }${12:webskin="$13" }${14:stProps="$15" }${16:stParam="$17" }${18:r_html="$19" }${20:r_objectid="$21"}}/&gt;$0</string>
+      <key>name</key>
+      <string>skin:view</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>skin</string>
+      <key>uuid</key>
+      <string>d6a4192a-eff5-481d-ae47-d122f6a2e6e6</string>
+   </dict>
+</plist>

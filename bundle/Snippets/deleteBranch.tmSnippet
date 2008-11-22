@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>deleteBranch(${1:${2:dsn="$3", }${4:objectid="$5", }${6:dbowner="$7"}})</string>
+      <key>name</key>
+      <string>deleteBranch</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>deleteBranch</string>
+      <key>uuid</key>
+      <string>266bf63a-399f-4367-ad6a-3a90c18d6736</string>
+   </dict>
+</plist>

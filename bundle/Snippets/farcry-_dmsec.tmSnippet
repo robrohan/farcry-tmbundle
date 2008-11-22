@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;farcry:_dmsec ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>farcry:_dmsec</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>farcry</string>
+      <key>uuid</key>
+      <string>d672020c-ebc1-4d1c-abfa-f48b6110d71f</string>
+   </dict>
+</plist>

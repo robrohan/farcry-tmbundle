@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:objectv2 ${1:${2:ObjectID="$3" }${4:stObject="$5" }${6:typename="$7" }${8:ObjectLabel="$9" }${10:lFields="$11" }${12:lExcludeFields="$13" }${14:class="$15" }${16:style="$17" }${18:format="$19" }${20:IncludeLabel="$21" }${22:IncludeFieldSet="$23" }${24:IncludeBR="$25" }${26:InTable="$27" }${28:insidePLP="$29" }${30:r_stFields="$31" }${32:r_stPrefix="$33" }${34:stPropMetadata="$35" }${36:wizardID="$37" }${38:IncludeLibraryWrapper="$39" }${40:bValidation="$41" }${42:lHiddenFields="$43" }${44:stPropValues="$45" }${46:bIncludeSystemProperties="$47" }${48:lock="$49" }${50:bShowLibraryLink="$51" }${52:bShowFieldHints="$53" }${54:prefix="$55"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:objectv2</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>bcee9839-ec8c-4941-ad23-bad59e472eda</string>
+   </dict>
+</plist>

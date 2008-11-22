@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:plpwrappercontainer ${1:${2:callingForm="$3" }${4:onclick="$5" }${6:bShowSideSteps="$7"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:plpwrappercontainer</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>a75344d1-c0e9-4422-b8c3-b9e32dfbc102</string>
+   </dict>
+</plist>

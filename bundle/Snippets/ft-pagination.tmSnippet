@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:pagination ${1:${2:Top="$3" }${4:Bottom="$5" }${6:htmlFirst="$7" }${8:htmlPrevious="$9" }${10:htmlNext="$11" }${12:htmlLast="$13" }${14:bShowResultTotal="$15" }${16:bShowPageDropdown="$17" }${18:paginationID="$19" }${20:CurrentPage="$21" }${22:maxRecordsToDisplay="$23" }${24:totalRecords="$25" }${26:pageLinks="$27" }${28:recordsPerPage="$29" }${30:submissionType="$31" }${32:actionURL="$33" }${34:typename="$35" }${36:scrollPrefix="$37" }${38:scrollSuffix="$39" }${40:renderType="$41" }${42:Step="$43"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:pagination</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>bb348f37-da68-45b8-89cf-984edfb1000a</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:plpnavigationbuttons ${1:${2:callingform="$3" }${4:onClick="$5" }${6:bDropDown="$7" }${8:cancelEvent="$9"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:plpnavigationbuttons</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>378bce4a-af3e-4835-8b94-482c415f3dd4</string>
+   </dict>
+</plist>

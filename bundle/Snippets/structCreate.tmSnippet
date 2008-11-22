@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>structCreate(${1:})</string>
+      <key>name</key>
+      <string>structCreate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>structCreate</string>
+      <key>uuid</key>
+      <string>a88db33c-58be-47f6-921b-97beea7646bd</string>
+   </dict>
+</plist>

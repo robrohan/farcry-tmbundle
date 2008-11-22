@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:processform ${1:${2:action="$3" }${4:rbkey="$5" }${6:excludeAction="$7"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:processform</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>bc5a08e9-c602-4e8b-81bc-9d500c4336dc</string>
+   </dict>
+</plist>

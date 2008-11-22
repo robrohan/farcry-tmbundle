@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;farcry:_farcryonrequestend ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>farcry:_farcryonrequestend</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>farcry</string>
+      <key>uuid</key>
+      <string>3d93e532-9a4e-4464-9c2e-c4fff095e342</string>
+   </dict>
+</plist>

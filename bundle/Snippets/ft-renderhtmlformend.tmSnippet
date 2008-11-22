@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:renderhtmlformend ${1:}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:renderhtmlformend</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>0dddd523-6437-4363-8372-70395303984d</string>
+   </dict>
+</plist>

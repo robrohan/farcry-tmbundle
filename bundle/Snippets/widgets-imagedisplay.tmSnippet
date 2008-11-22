@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;widgets:imagedisplay ${1:${2:ImageSize="$3" }${4:onclick="$5" }${6:onclickevent="$7" }${8:onclickDisplay="$9" }${10:objectid="$11" }${12:popup="$13" }${14:height="$15" }${16:width="$17" }${18:autosize="$19" }${20:class="$21" }${22:alt="$23" }${24:bCustomOnClick="$25" }${26:bFailToTitle="$27" }${28:r_caption="$29" }${30:r_bsuccess="$31"}}/&gt;$0</string>
+      <key>name</key>
+      <string>widgets:imagedisplay</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>widgets</string>
+      <key>uuid</key>
+      <string>b6ee9d48-bcc3-4965-a74e-d508973a8c6e</string>
+   </dict>
+</plist>

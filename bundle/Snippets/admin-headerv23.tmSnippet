@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;admin:headerv23 ${1:${2:title="$3" }${4:bCacheControl="$5" }${6:writingDir="$7" }${8:userLanguage="$9"}}/&gt;$0</string>
+      <key>name</key>
+      <string>admin:headerv23</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>admin</string>
+      <key>uuid</key>
+      <string>d7129387-436a-4657-a69c-5ea18e9bc13b</string>
+   </dict>
+</plist>

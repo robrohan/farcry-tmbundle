@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;sec:checkpermission ${1:${2:permission="$3" }${4:roles="$5" }${6:typepermission="$7" }${8:type="$9" }${10:generalpermission="$11" }${12:objectpermission="$13" }${14:objectID="$15" }${16:webskinpermission="$17" }${18:require="$19" }${20:error="$21" }${22:errormessage="$23" }${24:result="$25"}}/&gt;$0</string>
+      <key>name</key>
+      <string>sec:checkpermission</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>sec</string>
+      <key>uuid</key>
+      <string>00caf7a3-6e73-4e64-9784-d520128c3ef0</string>
+   </dict>
+</plist>

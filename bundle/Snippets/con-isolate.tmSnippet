@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;con:isolate ${1:${2:active="$3" }${4:type="$5" }${6:removewhitespace="$7"}}/&gt;$0</string>
+      <key>name</key>
+      <string>con:isolate</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>con</string>
+      <key>uuid</key>
+      <string>f8bb1865-b011-4714-847f-c18662390b21</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;skin:importcss ${1:${2:type="$3"}}/&gt;$0</string>
+      <key>name</key>
+      <string>skin:importcss</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>skin</string>
+      <key>uuid</key>
+      <string>1dc57cd2-ba90-40c6-8131-93e9e939c191</string>
+   </dict>
+</plist>

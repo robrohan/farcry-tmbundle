@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>deleteFU(${1:${2:alias="$3"}})</string>
+      <key>name</key>
+      <string>deleteFU</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>deleteFU</string>
+      <key>uuid</key>
+      <string>54653ac0-d7fa-458b-bfbf-2b3e2d845a12</string>
+   </dict>
+</plist>

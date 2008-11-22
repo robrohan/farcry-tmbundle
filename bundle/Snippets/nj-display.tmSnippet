@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;nj:display ${1:${2:objectid="$3" }${4:typename="$5" }${6:method="$7" }${8:loginpath="$9"}}/&gt;$0</string>
+      <key>name</key>
+      <string>nj:display</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>nj</string>
+      <key>uuid</key>
+      <string>1b43f3b6-cd28-427c-95fc-db2e9012d510</string>
+   </dict>
+</plist>

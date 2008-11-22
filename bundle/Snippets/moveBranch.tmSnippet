@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>moveBranch(${1:${2:dsn="$3", }${4:objectid="$5", }${6:parentid="$7", }${8:pos="$9", }${10:dbowner="$11"}})</string>
+      <key>name</key>
+      <string>moveBranch</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>moveBranch</string>
+      <key>uuid</key>
+      <string>97bf10ea-fa4c-4f9d-b53d-bac7211db6a3</string>
+   </dict>
+</plist>

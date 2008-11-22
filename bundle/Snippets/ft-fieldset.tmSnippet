@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:fieldset ${1:${2:mode="$3" }${4:class="$5" }${6:legend="$7" }${8:HelpSection="$9" }${10:HelpTitle="$11" }${12:rendertype="$13"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:fieldset</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>e7e56ae8-e0f2-41f0-995f-81a59e87e3b0</string>
+   </dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+      <string>&lt;ft:farcrybuttonpanel ${1:${2:id="$3" }${4:indentForLabel="$5"}}/&gt;$0</string>
+      <key>name</key>
+      <string>ft:farcrybuttonpanel</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>ft</string>
+      <key>uuid</key>
+      <string>1fd9b4f5-2e21-468d-9ea8-86954ae6753b</string>
+   </dict>
+</plist>
