@@ -11,7 +11,7 @@
 	<key>description</key>
 	<string>Support for the &lt;a href="http://farcrycore.org/"&gt;FarCry&lt;/a&gt; framework.</string>
 	
-	<key>mainMenu</key>
+	<!-- <key>mainMenu</key>
 	<dict>
 		<key>items</key>
 		<array>
@@ -42,6 +42,7 @@
 			</dict>
 		</dict>
 	</dict>
+	-->
 	
 	<key>name</key>
 	<string>FarCry</string>

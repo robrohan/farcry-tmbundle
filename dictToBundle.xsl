@@ -2,7 +2,7 @@
 <!--
 	dictToBundle
 	Created by Rob Rohan on 2008-11-22.
-	Copyright (c) 2008 __MyCompanyName__. All rights reserved.
+	Copyright (c) 2008-2009 Rob Rohan. All rights reserved.
 -->
 <xsl:stylesheet 
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
@@ -12,7 +12,8 @@
 	exclude-result-prefixes="xsl dic util">
 	
 	<xsl:output method="xml"/>
-	<xsl:output method="xml" indent="yes" name="plistxml" exclude-result-prefixes="xsl dic util" />
+	<xsl:output method="xml" indent="yes" name="plistxml" 
+		exclude-result-prefixes="xsl dic util" />
 	
 	<xsl:variable name="NL">
 		<xsl:text>
@@ -40,9 +41,9 @@
 		<xsl:value-of select="$NL" />
 	</xsl:template>
 	
+	<!-- Formats the functions. Writes the plist too. -->
 	<xsl:template match="dic:function">
-		<xsl:variable name="filename" select="translate(@name,':','-')" /> 
-		<!-- <xsl:value-of select="$filename" /> -->
+		<xsl:variable name="filename" select="translate(@name,':','-')" />
 		
 		<xsl:variable name="uid" select="util:randomUUID()"/>
 		<string><xsl:value-of select="util:toString($uid)"/></string>
@@ -60,7 +61,6 @@
 							<xsl:with-param name="placement" select="position()+position()" />
 							<xsl:with-param name="separator" select="', '" />
 							<xsl:with-param name="total-param-count" select="count(../dic:parameter)" />
-							<!-- <xsl:with-param name="element" select="." /> -->
 						</xsl:call-template>
 					</xsl:for-each>
 					<xsl:text>})</xsl:text></string>
@@ -79,14 +79,9 @@
 			</dict>
 			</plist>
 		</xsl:result-document>
-		
-		
-		
 	</xsl:template>
 	
-	
-	
-	
+	<!-- Formats the tags. Writes out the plist file too -->
 	<xsl:template match="dic:tag">
 		<xsl:variable name="filename" select="translate(@name,':','-')" /> 
 		<!-- <xsl:value-of select="$filename" /> -->
@@ -140,7 +135,12 @@
 		</xsl:result-document>
 	</xsl:template>
 	
-	<!-- handles doing the tag's params -->
+	<!-- handles doing the tag and function params. Takes 3 params.
+		placement = where to start the textmate $N variables from
+		separator = what to tack on to the end of each paramenter
+		total-param-count = total number of params, so we don't add the
+					separator to the last item.
+	-->
 	<xsl:template name="param-with-placement">
 		<xsl:param name="placement" />
 		<xsl:param name="separator" />
@@ -158,9 +158,6 @@
 		</xsl:if>
 		<xsl:text>}</xsl:text>
 	</xsl:template>
-	
-	
-	
 	
 	<xsl:template match="text()" />
 </xsl:stylesheet>
