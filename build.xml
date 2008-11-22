@@ -3,27 +3,26 @@
 	<!-- The xslt process needs an XSLT 2.0 processor, so I am using Saxon-->
 	<property name="saxon.path" value="/Applications/saxonb9-0-0-4j/saxon9.jar" />
 	
+	<property name="dictionary.file" value="farcry51.xml" />
+	<property name="xsl.file" value="dictToBundle.xsl" />
 	
 	<target name="clean">
-		<fileset dir="bundle/Snippets" includes="*.tmSnippet"/>
+		<delete verbose="true">
+			<fileset dir="./bundle/Snippets" includes="**/*.tmSnippet" />
+		</delete>
 	</target>
 	
-	<target name="compile">
-		<mkdir dir="build/classes"/>
-		<javac srcdir="src" destdir="build/classes"/>
+	<target name="createSnippets">
+		<java jar="${saxon.path}" fork="true">
+			<arg value="${dictionary.file}" />
+			<arg value="${xsl.file}" />
+		</java>
 	</target>
 	
-	<target name="jar">
-		<mkdir dir="build/jar"/>
-		<jar destfile="build/jar/HelloWorld.jar" basedir="build/classes">
-			<manifest>
-				<attribute name="Main-Class" value="oata.HelloWorld"/>
-			</manifest>
-		</jar>
+	<target name="createBundle">
+		<copy todir="FarCry.tmbundle">
+			<fileset dir="bundle"/>
+		</copy>
 	</target>
 	
-	<target name="run">
-		<java jar="build/jar/HelloWorld.jar" fork="true"/>
-	</target>
-
 </project>
