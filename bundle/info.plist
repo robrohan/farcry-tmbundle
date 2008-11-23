@@ -11,14 +11,15 @@
 	<key>description</key>
 	<string>Support for the &lt;a href="http://farcrycore.org/"&gt;FarCry&lt;/a&gt; framework.</string>
 	
-	<!-- <key>mainMenu</key>
+	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
 		<array>
-			<string>D20A7E11-2B5D-40CC-838D-903B417019BC</string>
-			<string>5058590C-8A96-43E8-9D92-42E3FD88B1CB</string>
+			<!-- <string>D20A7E11-2B5D-40CC-838D-903B417019BC</string>
+			<string>5058590C-8A96-43E8-9D92-42E3FD88B1CB</string> -->
+			<string>8418542B-123B-461A-BABC-3C4CD102C494</string>
 		</array>
-		
+		<!-- 
 		<key>submenus</key>
 		<dict>
 			<key>5058590C-8A96-43E8-9D92-42E3FD88B1CB</key>
@@ -40,9 +41,9 @@
 				<array>
 				</array>
 			</dict>
-		</dict>
+		</dict>	-->
 	</dict>
-	-->
+
 	
 	<key>name</key>
 	<string>FarCry</string>
